@@ -2,7 +2,7 @@
 
 **注意**：本master分支版本代码使用Github-Actions定时运行，无需部署在服务器。如需在服务器中运行，请使用service分支中的代码。
 
-如本项目对您有所帮助，请帮忙点一个⭐star支持一下作者。如有任何问题欢迎提交issue与我联系。  
+如本项目对您有所帮助，请帮忙点一个⭐star支持一下 作者。如有任何问题欢迎提交issue与我联系。  
 
 ## Description
 
@@ -64,7 +64,7 @@
 
 * UUKEY：你的UUkey cookie
 
-3. 启动定时打卡
+3. 启动 定时打卡
 
     方法一：修改Readme以自动触发Github-Actions工作流
 
